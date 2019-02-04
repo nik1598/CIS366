@@ -1,0 +1,49 @@
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe.config
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.pdb
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.firstGradeMathGameForm.resources
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.Properties.Resources.resources
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.GenerateResource.Cache
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.CoreCompileInputs.cache
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.exe
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.pdb
+C:\Users\gc527\Source\Repos\First-Grade-Game\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csprojResolveAssemblyReference.cache
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe.config
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.pdb
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csprojResolveAssemblyReference.cache
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.firstGradeMathGameForm.resources
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.Properties.Resources.resources
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.GenerateResource.Cache
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.CoreCompileInputs.cache
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.exe
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.pdb
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.GameOverForm.resources
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.CorrectForm.resources
+D:\C#\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.IntroForm.resources
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe.config
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.pdb
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csprojResolveAssemblyReference.cache
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.GameOverForm.resources
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.IntroForm.resources
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.firstGradeMathGameForm.resources
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.CorrectForm.resources
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.Properties.Resources.resources
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.GenerateResource.Cache
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.CoreCompileInputs.cache
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.exe
+E:\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.pdb
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe.config
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.exe
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\bin\Debug\firstGradeMathGameGCJK.pdb
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csprojAssemblyReference.cache
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.GameOverForm.resources
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.IntroForm.resources
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.firstGradeMathGameForm.resources
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.CorrectForm.resources
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.Properties.Resources.resources
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.GenerateResource.cache
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.csproj.CoreCompileInputs.cache
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.exe
+E:\Docs\College\Past courses\SP'18\CIS 266\firstGradeMathGameGCJK\firstGradeMathGameGCJK\obj\Debug\firstGradeMathGameGCJK.pdb
